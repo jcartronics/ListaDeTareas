@@ -145,7 +145,7 @@ function clearTasks() {
     }
 }
 
-// Borrar de Local Storage
+// Borrar Local Storage
 function clearTasksFromLocalStorage() {
     localStorage.clear();
 }
